@@ -36,7 +36,7 @@ The SearchForImages JSON request has this form:
 	  "Token": "",
 	  "CoordinationId": ""
 	  },
-	  "SearchForImagesRequestBody": {
+	  "SearchForImages2RequestBody": {
 	    "Filter": {
 	      "Collections":{
 	      "Ids": [""],
